@@ -1,9 +1,10 @@
-###  DATE: 05-04-2024
+# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
 ###  NAME: PRAJIN S
+###  DATE: 08-05-2024
 ###  ROLL NO : 212223230151
 ###  DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCEINCE
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
+
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
