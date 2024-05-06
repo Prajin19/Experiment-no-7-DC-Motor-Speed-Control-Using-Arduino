@@ -1,7 +1,7 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
 ###  NAME: PRAJIN S
-###  DATE: 08-05-2024
+###  DATE: 08-04-2024
 ###  ROLL NO : 212223230151
 ###  DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCEINCE
 
